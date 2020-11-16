@@ -1,0 +1,101 @@
+      *{
+          padding: 0;
+          margin: 0;
+      }
+      p{
+          font-size: 40px;
+          font-family: arial;
+          color: #2C7CE4;
+          padding: 25px;
+      }
+      img{
+          float: left;
+          width: 40pt;
+          padding: 8px;
+          margin-left: 10px;
+          position: relative;
+          top: 20px;
+      }
+      header{
+          background-color: #FEFAE2;
+      }
+      #h1{
+          font-family: none;
+          font-size: 60px;
+          text-align: center;
+          margin-top: 40px;
+          color: #297AE4;
+          margin-bottom: 35px;
+      }
+      input{
+          width: 90%;
+          padding: 35px;
+          margin: 15px;
+          box-sizing: border-box;
+          outline: none;
+          font-size: 38px;
+          border: none;
+          border-radius: 7px;
+          background-color: #F5F6F8;
+          box-shadow: 0 0 3px #A9A9A9;
+          margin-left: 48px;
+
+      }
+      input[type="submit"]{
+               background-color: #1878F3;
+               color: white;
+               font-size: 50px;
+               font-weight: bold;
+               font-family: none;
+               padding-top: 24px;
+               padding-bottom 24px;:
+      }
+      #ou{
+          width: 45px;
+          background: white;
+          position: relative;
+          text-align: center;
+          left: 430px;
+          bottom: 47px;
+      }
+      .hr{
+          width: 350px;
+          display: inline-block;
+          height: 4px;
+      }
+      .ht1{
+          float: left;
+
+      }
+      .hr2{
+          float: right;
+      }
+      hr{
+          width:88%;
+          margin: auto;
+          margin-top: 36px;
+          background-color: gray;
+      }
+      #h2{
+          font-family: none;
+          font-size: 40px;
+          text-align: center;
+          color: white;
+          background-color: #00A300;
+          display: inline-block;
+          text-align: center;
+          position: relative;
+          left: 310px;
+          padding: 25px;
+          border-radius: 10px;
+          bottom: 25px;
+      }
+	 #plv{
+          font-size: 40px;                                                
+		text-align: center;
+          color: #91A8C6;
+      }
+      #pt{
+          position: relative;      
+		display: inline;
+      }
